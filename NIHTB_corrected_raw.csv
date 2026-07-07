@@ -1,0 +1,91 @@
+﻿record_id,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,startdate,nsm_rawscore,startdate_2,arw_ratescore,startdate_3,mfs_rawscore,startdate_4,scs_ratescore,startdate_5,arp_orderedpairs
+1001,v1_baseline_arm_1,,,,,,,,,,,,
+1001,v1_baseline_arm_1,processing_speed,1,3/18/26 11:43,37,,,,,,,,
+1001,v1_baseline_arm_1,arrows,1,,,3/18/26 11:46,1.4196076204537067,,,,,,
+1001,v1_baseline_arm_1,sequences,1,,,,,3/18/26 11:50,13,,,,
+1001,v1_baseline_arm_1,shape_color_sorting,1,,,,,,,3/18/26 11:55,0.8747850743567313,,
+1001,v1_baseline_arm_1,arranging_pictures,1,,,,,,,,,3/18/26 11:58,16
+1001,v6_arm_1,processing_speed,1,4/3/26 10:15,38,,,,,,,,
+1001,v6_arm_1,arrows,1,,,4/3/26 11:24,1.4230013945413669,,,,,,
+1001,v6_arm_1,sequences,1,,,,,4/3/26 11:27,12,,,,
+1001,v6_arm_1,shape_color_sorting,1,,,,,,,4/3/26 11:32,0.947987107,,
+1001,v6_arm_1,arranging_pictures,1,,,,,,,,,4/3/26 11:36,21
+1001,v12_arm_1,sequences,1,,,,,5/7/26 19:08,17,,,,
+1001,v12_arm_1,shape_color_sorting,1,,,,,,,5/7/26 19:11,0.8632493897719831,,
+1001,v12_arm_1,arranging_pictures,1,,,,,,,,,5/7/26 19:16,14
+1001,v12_arm_1,processing_speed,1,5/7/26 19:18,41,,,,,,,,
+1001,v12_arm_1,arrows,1,,,5/7/26 19:21,1.4213832902180394,,,,,,
+1002,v1_baseline_arm_1,,,,,,,,,,,,
+1002,v1_baseline_arm_1,processing_speed,1,4/10/26 14:12,24,,,,,,,,
+1002,v1_baseline_arm_1,arrows,1,,,4/10/26 14:44,1.0589557399723375,,,,,,
+1002,v1_baseline_arm_1,sequences,1,,,,,4/10/26 14:47,11,,,,
+1002,v1_baseline_arm_1,shape_color_sorting,1,,,,,,,4/10/26 14:54,0.806373577,,
+1002,v1_baseline_arm_1,arranging_pictures,1,,,,,,,,,4/10/26 14:57,16
+1002,v6_arm_1,processing_speed,1,4/30/26 14:28,29,,,,,,,,
+1002,v6_arm_1,arrows,1,,,4/30/26 14:31,1.0672814207650274,,,,,,
+1002,v6_arm_1,sequences,1,,,,,5/11/26 17:25,15,,,,
+1002,v6_arm_1,shape_color_sorting,1,,,,,,,5/11/26 17:28,1.0230720383828407,,
+1002,v6_arm_1,arranging_pictures,1,,,,,,,,,4/30/26 14:51,11
+1002,v6_arm_1,arranging_pictures,2,,,,,,,,,5/11/26 17:34,20
+1002,v12_arm_1,processing_speed,1,5/22/26 14:44,21,,,,,,,,
+1002,v12_arm_1,arrows,1,,,5/22/26 14:48,1.2240801038019928,,,,,,
+1002,v12_arm_1,sequences,1,,,,,5/22/26 14:54,13,,,,
+1002,v12_arm_1,shape_color_sorting,1,,,,,,,5/22/26 14:56,0.9637694092450474,,
+1002,v12_arm_1,arranging_pictures,1,,,,,,,,,5/22/26 15:01,26
+1003,v1_baseline_arm_1,,,,,,,,,,,,
+1003,v1_baseline_arm_1,processing_speed,1,5/27/26 13:15,37,,,,,,,,
+1003,v1_baseline_arm_1,arrows,1,,,5/27/26 13:18,1.5629901276648237,,,,,,
+1003,v1_baseline_arm_1,sequences,1,,,,,5/27/26 13:23,11,,,,
+1003,v1_baseline_arm_1,shape_color_sorting,1,,,,,,,5/27/26 13:26,0.8538852034097474,,
+1003,v1_baseline_arm_1,arranging_pictures,1,,,,,,,,,5/27/26 13:31,18
+1003,v6_arm_1,processing_speed,1,6/12/26 12:54,43,,,,,,,,
+1003,v6_arm_1,arrows,1,,,6/12/26 12:58,1.607398996945499,,,,,,
+1003,v6_arm_1,sequences,1,,,,,6/12/26 13:02,12,,,,
+1003,v6_arm_1,shape_color_sorting,1,,,,,,,6/12/26 13:06,1.0208702879026144,,
+1003,v6_arm_1,arranging_pictures,1,,,,,,,,,6/12/26 13:12,26
+1004,v1_baseline_arm_1,,,,,,,,,,,,
+1004,v1_baseline_arm_1,processing_speed,1,6/3/26 16:48,31,,,,,,,,
+1004,v1_baseline_arm_1,arrows,1,,,6/3/26 16:52,1.172262373207354,,,,,,
+1004,v1_baseline_arm_1,sequences,1,,,,,6/3/26 16:57,14,,,,
+1004,v1_baseline_arm_1,shape_color_sorting,1,,,,,,,6/3/26 17:02,0.8734257354255558,,
+1004,v1_baseline_arm_1,arranging_pictures,1,,,,,,,,,6/3/26 17:09,15
+1004,v6_arm_1,processing_speed,1,6/19/26 22:10,30,,,,,,,,
+1004,v6_arm_1,arrows,1,,,6/19/26 22:07,0.9880788142920336,,,,,,
+1004,v6_arm_1,sequences,1,,,,,6/19/26 21:57,13,,,,
+1004,v6_arm_1,shape_color_sorting,1,,,,,,,6/19/26 21:52,0.9530631976008874,,
+1004,v6_arm_1,arranging_pictures,1,,,,,,,,,6/19/26 22:03,13
+2001,v1_baseline_arm_1,,,,,,,,,,,,
+2001,v1_baseline_arm_1,processing_speed,1,6/17/26 10:03,45,,,,,,,,
+2001,v1_baseline_arm_1,arrows,1,,,6/17/26 10:06,1.9107745372557305,,,,,,
+2001,v1_baseline_arm_1,sequences,1,,,,,6/17/26 10:10,15,,,,
+2001,v1_baseline_arm_1,shape_color_sorting,1,,,,,,,6/17/26 10:13,1.144501409904019,,
+2001,v1_baseline_arm_1,arranging_pictures,1,,,,,,,,,6/17/26 10:18,26
+2001,v6_arm_1,processing_speed,1,6/26/26 8:08,58,,,,,,,,
+2001,v6_arm_1,arrows,1,,,6/26/26 8:06,1.8610453440637138,,,,,,
+2001,v6_arm_1,sequences,1,,,,,6/26/26 8:16,16,,,,
+2001,v6_arm_1,shape_color_sorting,1,,,,,,,6/26/26 8:11,1.358168277836485,,
+2001,v6_arm_1,arranging_pictures,1,,,,,,,,,6/26/26 8:27,0
+2002,v1_baseline_arm_1,,,,,,,,,,,,
+2002,v1_baseline_arm_1,processing_speed,1,7/1/26 13:19,30,,,,,,,,
+2002,v1_baseline_arm_1,arrows,1,,,7/1/26 13:22,0.941058174,,,,,,
+2002,v1_baseline_arm_1,sequences,1,,,,,7/1/26 13:32,13,,,,
+2002,v1_baseline_arm_1,shape_color_sorting,1,,,,,,,7/1/26 13:35,0.6448720196232562,,
+2002,v1_baseline_arm_1,arranging_pictures,1,,,,,,,,,7/1/26 13:41,5
+3001,v1_baseline_arm_1,,,,,,,,,,,,
+3001,v1_baseline_arm_1,processing_speed,1,6/22/26 12:40,22,,,,,,,,
+3001,v1_baseline_arm_1,arrows,1,,,6/22/26 12:45,1.2654191934039911,,,,,,
+3001,v1_baseline_arm_1,sequences,1,,,,,6/22/26 12:49,12,,,,
+3001,v1_baseline_arm_1,shape_color_sorting,1,,,,,,,6/22/26 12:52,0.853796974,,
+3001,v1_baseline_arm_1,arranging_pictures,1,,,,,,,,,6/22/26 12:59,15
+6001,v1_baseline_arm_1,,,,,,,,,,,,
+6002,v1_baseline_arm_1,,,,,,,,,,,,
+6002,v1_baseline_arm_1,processing_speed,1,5/13/26 14:54,31,,,,,,,,
+6001,v1_baseline_arm_1,processing_speed,2,5/15/26 11:19,14,,,,,,,,
+6002,v1_baseline_arm_1,arrows,1,,,5/13/26 14:57,1.6964779285394977,,,,,,
+6001,v1_baseline_arm_1,arrows,2,,,5/15/26 11:23,1.5407845675017715,,,,,,
+6002,v1_baseline_arm_1,sequences,1,,,,,5/13/26 15:03,13,,,,
+6001,v1_baseline_arm_1,sequences,2,,,,,5/15/26 11:29,8,,,,
+6002,v1_baseline_arm_1,shape_color_sorting,1,,,,,,,5/13/26 15:07,0.8273235733729597,,
+6001,v1_baseline_arm_1,shape_color_sorting,2,,,,,,,5/15/26 11:32,0.941429628,,
+6002,v1_baseline_arm_1,arranging_pictures,1,,,,,,,,,5/13/26 15:12,20
+6001,v1_baseline_arm_1,arranging_pictures,2,,,,,,,,,5/15/26 11:39,16
